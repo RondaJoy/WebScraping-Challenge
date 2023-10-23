@@ -2,9 +2,9 @@ UCB Data Analysis Bootcamp Module 11
 # WebScraping-Challenge
 ---------------
 #### Purpose:
-A full web-scraping and data analysis project consisting of two technical products:
-- Deliverable 1: Scrape titles and preview text from Mars news articles.
-- Deliverable 2: Scrape and analyze Mars weather data which exists in a table.
+Web-scraping and data analysis project consisting of two technical products:
+- Deliverable 1: Scrape titles and preview text from [Mars news articles](https://static.bc-edx.com/data/web/mars_news/index.html).
+- Deliverable 2: Scrape and analyze Mars weather data found [here](https://static.bc-edx.com/data/web/mars_facts/temperature.html).
 
 --------------
 #### Contents of Repository:
